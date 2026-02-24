@@ -43,8 +43,8 @@ This version includes a custom-built license bypass mechanism:
 
 ## 📸 Preview
 
-  
-*(এখানে তোর ডার্ক থিম হ্যাকবারের একটা স্ক্রিনশট আপলোড করে তার লিংক দিয়ে দিস)*
+  see screenshot
+
 
 ---
 
@@ -64,5 +64,5 @@ This tool is strictly for **educational purposes** and **authorized penetration 
 
 ---
 
-## 👨‍💻 Developed & Modified By
+## 👨‍💻 Developed & Modified By nullBr@!N BD ****
 *** *Passionate about Security, Automation, and Dark Themes.*
