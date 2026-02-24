@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "HackBar",
+  "version": "2.3.1",
+  "description": "A HackBar for google chrome/firefox browser. Small tool for pentesting websercurity and Modified by nullBr@!N",
+  "author": "Khoiasd",
+  "homepage_url": "https://www.facebook.com/groups/2646419985634946",
+  "icons": {
+    "48": "icons/icon.png"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "webRequest",
+    "declarativeNetRequest",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "devtools_page": "theme/hackbar.html",
+  "background": {
+    "service_worker": "background.js"
+  }
+}
