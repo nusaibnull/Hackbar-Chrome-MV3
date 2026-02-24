@@ -55,6 +55,7 @@ This version includes a custom-built license bypass mechanism:
 3. Enable **Developer Mode** (top right).
 4. Click on **Load unpacked** and select the extension folder.
 5. Open your browser's **DevTools (F12)** and look for the **HackBar** tab.
+6. Keys: **#JusticeForHadi**
 
 ---
 
