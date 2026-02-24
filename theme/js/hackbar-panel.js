@@ -31,7 +31,7 @@ function disable_hackbar(message=null) {
 // ==========================================
 chrome.storage.local.get(['license'], function (result) {
     const license = result.license;
-    if (license === "null_bhai") {
+    if (license === "#JusticeForHadi") {
         // Unlock if the license matches
         license_ok = true;
         $('#alert-license').addClass('hidden');
@@ -504,4 +504,5 @@ $(document).on('keypress', function (event) {
         execute();
         event.preventDefault();
     }
+
 });
