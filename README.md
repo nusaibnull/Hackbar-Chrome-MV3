@@ -43,7 +43,7 @@ This version includes a custom-built license bypass mechanism:
 
 ## 📸 Preview
 
-  [img]https://i.imgur.com/Jxl3DAn.png[/img]
+  https://i.imgur.com/Jxl3DAn.png
 
 
 ---
