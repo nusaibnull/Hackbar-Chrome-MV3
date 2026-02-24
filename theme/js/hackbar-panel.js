@@ -44,14 +44,14 @@ chrome.storage.local.get(['license'], function (result) {
 $('#licence-save').bind('click', () => {
     const license = $('#licence-input').val().trim();
     
-    if (license === "null_bhai") {
+    if (license === "#JusticeForHadi") {
         chrome.storage.local.set({license: license}, function() {
             license_ok = true;
             $('#alert-license').addClass('hidden');
-            console.log("Welcome Bashir! HackBar Unlocked.");
+            console.log("Welcome! HackBar is Unlocked.");
         });
     } else {
-        alert("Wrong License Key! Please enter 'null_bhai'");
+        alert("Wrong License Key! Please enter '#JusticeForHadi'");
     }
 });
 // ==========================================
@@ -506,3 +506,4 @@ $(document).on('keypress', function (event) {
     }
 
 });
+
